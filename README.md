@@ -29,10 +29,10 @@ In MacOS folder there is our application
 
 2 "chmod +x (Route to file)/app"
 
-Or you can just type command drag and drop app file
+Or you can just type commands and drag and drop app file
 
 After that you can use Application
-
+========================================================================
 
 Windows - 
 
