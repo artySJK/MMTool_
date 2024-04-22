@@ -13,7 +13,7 @@ Additionally, the platform features functionalities including viewing trade hist
 
 Mac OS - 
 
-1 Download zip archive from github (You can find it in release tab)
+1 Download zip archive from github in release tab (https://github.com/artySJK/MMTool_/releases/tag/MacOS)
 
 2 There will be 2 files. 1 with icon and 1 without icon(Delete file without icon)
 
@@ -35,7 +35,7 @@ After that you can use Application
 
 Windows - 
 
-1 Download zip archive from github (You can find it in release tab)
+1 Download zip archive from github in release tab (https://github.com/artySJK/MMTool_/releases/tag/Windows)
 
 2 Unzip archive and open Application  
 
