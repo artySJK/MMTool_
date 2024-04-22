@@ -32,7 +32,6 @@ In MacOS folder there is our application
 Or you can just type commands and drag and drop app file
 
 After that you can use Application
-========================================================================
 
 Windows - 
 
