@@ -15,23 +15,17 @@ Mac OS -
 
 1 Download zip archive from github in release tab (https://github.com/artySJK/MMTool_/releases/tag/MacOS)
 
-2 There will be 2 files. 1 with icon and 1 without icon(Delete file without icon)
-
-3 Right click on file with icon and click Show Package Contents  
-
-4 Go to Contents Folder -> MacOS Folder 
-
-In MacOS folder there is our application 
+2 Unzip Archive 
 
 5 Go To terminal and enter 
 
-1 "xattr -d com.apple.quarantine (Route to file)/app"
+1 "xattr -d com.apple.quarantine (drag app to terminal - it will type Route to file)/app"
 
-2 "chmod +x (Route to file)/app"
+2 "chmod +x (Route to file)/app" (Optional - Not always there is need to type it in terminal)
 
-Or you can just type commands and drag and drop app file
+3 Go to Privacy Settings on Mac and accept Application
 
-After that you can use Application
+Use Application
 
 Windows - 
 
